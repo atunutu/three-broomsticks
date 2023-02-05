@@ -1,4 +1,4 @@
-import Menu from "assets/js/menudata.js";
+import Menu from "/assets/js/menudata.js";
 console.log(Menu);
 let root = document.querySelector("#menu")
 //stores the id of the items inserted in the cart
